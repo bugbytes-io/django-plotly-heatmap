@@ -1,3 +1,4 @@
 Django==4.0.3
 django-extensions==3.1.5
+django-model-utils==4.2.0
 plotly==5.6.0
